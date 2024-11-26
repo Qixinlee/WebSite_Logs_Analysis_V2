@@ -3,8 +3,9 @@
 **启动命令**  
 `streamlit run www.py`
 
-**启动命令 设置自定上传大小**
+**启动命令 设置自定上传大小**  
 `streamlit run www.py --server.maxUploadSize 1000`
+
 
 **介绍**
 1. **支持多种日志格式**：支持Apache、Nginx、IIS和Tomcat日志格式。
